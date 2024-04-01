@@ -1,0 +1,4 @@
+baseURL = 'https://ai4ce.github.io/MARS/'
+languageCode = 'en-us'
+title = 'MARS'
+theme = 'blowfish'

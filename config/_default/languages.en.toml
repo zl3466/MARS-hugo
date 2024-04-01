@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "MARS"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/nyu_may_logo.png"
+  description = "A powerful, lightweight theme for Hugo."
+
+[author]
+  name = "MARS"
+  image = "img/nyu_may_logo.png"
+#  image_may = "img/may_logo.png"
+  headline = ""
+  bio = ""
+  links = [
+#    { x-twitter = "https://twitter.com/burufugu" },
+#    { github = "https://github.com/nunocoracao/blowfish" },
+  ]

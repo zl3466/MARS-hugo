@@ -1,0 +1,73 @@
+:root { --color-neutral: 255, 255, 255;
+/*    Dark grey    */
+--color-neutral-50:     255,255,255;
+--color-neutral-100:    255,255,255;
+--color-neutral-200:    217,217,217;
+--color-neutral-300:    179,179,179;
+--color-neutral-400:    140,140,140;
+--color-neutral-500:    102,102,102;
+--color-neutral-600:    82,82,82;
+--color-neutral-700:    61,61,61;
+--color-neutral-800:    41,41,41;
+--color-neutral-900:    20,20,20;
+/*    NYU violet    */
+--color-primary-50:     255,255,255;
+--color-primary-100:    244,227,247;
+--color-primary-200:    222,167,230;
+--color-primary-300:    200,108,213;
+--color-primary-400:    173,54,191;
+--color-primary-500:    119,37,131;
+--color-primary-600:    90,28,99;
+--color-primary-700:    61,19,67;
+--color-primary-800:    32,10,36;
+--color-primary-900:    3,1,4;
+/*    Light purple    */
+--color-secondary-50:     255,255,255;
+--color-secondary-100:    255,255,255;
+--color-secondary-200:    255,255,255;
+--color-secondary-300:    255,255,255;
+--color-secondary-400:    255,255,255;
+--color-secondary-500:    230,230,250;
+--color-secondary-600:    196,196,243;
+--color-secondary-700:    162,162,236;
+--color-secondary-800:    128,128,230;
+--color-secondary-900:    94,94,223;
+}
+
+/*:root { --color-neutral: 255, 255, 255;*/
+/*    !*!*    White    *!*!*/
+/*--color-neutral-50:     255,255,255;*/
+/*--color-neutral-100:    255,255,255;*/
+/*--color-neutral-200:    255,255,255;*/
+/*--color-neutral-300:    255,255,255;*/
+/*--color-neutral-400:    255,255,255;*/
+/*--color-neutral-500:    255,255,255;*/
+/*--color-neutral-600:    235,235,235;*/
+/*--color-neutral-700:    214,214,214;*/
+/*--color-neutral-800:    194,194,194;*/
+/*--color-neutral-900:    173,173,173;*/
+/*    !*!*    NYU violet    *!*!*/
+/*--color-primary-50:     255,255,255;*/
+/*--color-primary-100:    244,227,247;*/
+/*--color-primary-200:    222,167,230;*/
+/*--color-primary-300:    200,108,213;*/
+/*--color-primary-400:    173,54,191;*/
+/*--color-primary-500:    119,37,131;*/
+/*--color-primary-600:    90,28,99;*/
+/*--color-primary-700:    61,19,67;*/
+/*--color-primary-800:    32,10,36;*/
+/*--color-primary-900:    3,1,4;*/
+/*    !*!*    Light purple    *!*!*/
+/*--color-secondary-50:     255,255,255;*/
+/*--color-secondary-100:    255,255,255;*/
+/*--color-secondary-200:    255,255,255;*/
+/*--color-secondary-300:    255,255,255;*/
+/*--color-secondary-400:    255,255,255;*/
+/*--color-secondary-500:    230,230,250;*/
+/*--color-secondary-600:    196,196,243;*/
+/*--color-secondary-700:    162,162,236;*/
+/*--color-secondary-800:    128,128,230;*/
+/*--color-secondary-900:    94,94,223;*/
+/*}*/
+
+/*666666 772583 e6e6fa*/
